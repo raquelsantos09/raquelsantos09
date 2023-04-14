@@ -1,4 +1,4 @@
-### About me
+## About me
 Hi there 👋
 
 I'm Raquel, a Junior Web Developer, from Portugal!
@@ -8,11 +8,11 @@ I'm Raquel, a Junior Web Developer, from Portugal!
 - 🌱 I’m learning TypeScript
 - 🐶🐱 I worked as a Vet for 10 years
 
-### Contact
+## Contact
 If you want to know me better, check out my
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height=20px>](https://www.linkedin.com/in/raquelsantos09/) profile. Feel free to connect with me!
 
-### Languages and Tools
+## Languages and Tools
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
