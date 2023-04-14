@@ -3,6 +3,11 @@ Hi there 👋
 
 I'm Raquel, a Junior Web Developer, from Portugal!
 
+- 🔭 I’ve just finished a Full-Stack Web Development Bootcamp
+- 💻 I'm currently looking for a Junior Web Developer Position
+- 🌱 I’m learning TypeScript
+- 🐶 I worked as a Vet for 10 years
+
 ### Contact
 If you want to know me better, check out my
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/raquelsantos09/). Feel free to add me!
