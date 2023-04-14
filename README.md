@@ -6,7 +6,7 @@ I'm Raquel, a Junior Web Developer, from Portugal!
 - 🔭 I’ve just finished a Full-Stack Web Development Bootcamp
 - 💻 I'm currently looking for a Junior Web Developer Position
 - 🌱 I’m learning TypeScript
-- 🐶 I worked as a Vet for 10 years
+- 🐶🐱 I worked as a Vet for 10 years
 
 ### Contact
 If you want to know me better, check out my
