@@ -10,7 +10,7 @@ I'm Raquel, a Junior Web Developer, from Portugal!
 
 ### Contact
 If you want to know me better, check out my
-[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/raquelsantos09/). Feel free to add me!
+[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height=20px>](https://www.linkedin.com/in/raquelsantos09/) profile. Feel free to connect with me!
 
 ### Languages and Tools
 
